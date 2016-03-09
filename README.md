@@ -34,7 +34,7 @@ more general system.
 
 ## The Application
 
-Application is written in VB.NET** code.
+Application is written in **VB.NET** code.
 
 ![TSP random points input](img/tsp-random-points.gif)
 
